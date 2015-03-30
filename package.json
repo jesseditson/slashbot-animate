@@ -1,0 +1,29 @@
+{
+  "name": "slashbot-animate",
+  "version": "1.0.0",
+  "description": "Post animated gifs via slashbot",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesseditson/slashbot-animate.git"
+  },
+  "keywords": [
+    "animated",
+    "gif",
+    "slashbot",
+    "slack",
+    "bot"
+  ],
+  "author": "Jesse Ditson <jesse.ditson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseditson/slashbot-animate/issues"
+  },
+  "homepage": "https://github.com/jesseditson/slashbot-animate",
+  "dependencies": {
+    "debug": "^2.1.3"
+  }
+}
